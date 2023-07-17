@@ -14,11 +14,13 @@
     background: rgb(84, 72, 72);
 }
 .logo {
-    /* border: 1px solid; */
     width: 20%;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.logo img {
+    border: 1px solid #FF0000;
 }
 .link-con {
     /* border: 1px solid; */
